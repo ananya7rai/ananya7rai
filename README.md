@@ -1,5 +1,4 @@
 ## Hi, I'm Ananya Rai ##
-- - - -
 and here's some things you would like to know about me :) 
 
 ### About Me ###
