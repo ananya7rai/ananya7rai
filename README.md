@@ -1,17 +1,17 @@
-## Hi, I'm Ananya Rai ##
+# Hi, I'm Ananya Rai #
 and here's some things you would like to know about me :) 
 
-### About Me ###
+## About Me ##
 - - - - 
 🎓 B.Tech student at Indian Institute of Technology(BHU), Varanasi, studying Metallurgical engineering 
 📧 Contact: ananya.rai.met22@itbhu.ac.in
 🌐 [GitHub](https://github.com/ananya7rai)
 
-### Education ### 
+## Education ##
 - - - -
 - B.Tech (Metallurgical Engineering)
-- Indian Institute of Technology(BHU), Varanasi
-- CGPA: 8.08 (Till 4th semester)
+    - Indian Institute of Technology(BHU), Varanasi
+    - CGPA: 8.08 (Till 4th semester)
 
 - 12th Standard
     - White Leaf Public School, Delhi
@@ -25,21 +25,21 @@ and here's some things you would like to know about me :)
     - Year: 2019-2020
     - Percentage: 96.8%
  
-### Skills ###
+## Skills ##
 - - - - 
-#### Currently focussing on ####
+### Currently focussing on ###
 - Data Structures and Algorithms
 - Supervised Machine Learning
 - Deep Learning
 - Data Science 
 
-#### Programming Languages ####
+### Programming Languages ###
 - Python, C++, C, SQL(learning something new everyday)
 
-#### Tools and Technology ####
+### Tools and Technology ###
 -  NumPy, Pandas, Matplotlib, TensorFlow, Keras, PyTorch, MS Excel, MS PowerPoint
 
-#### Areas of Interest ####
+### Areas of Interest ###
 - Mathematics, Photoshop Manipulation, Yoga, 
 
 
