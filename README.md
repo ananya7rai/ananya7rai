@@ -8,10 +8,10 @@ and here's some things you would like to know about me :)
 🌐 [GitHub](https://github.com/ananya7rai)
 
 ### Education ### 
-<br> 
+- - - -
 - B.Tech (Metallurgical Engineering)
-    - Indian Institute of Technology(BHU), Varanasi
-    - CGPA: 8.08 (Till 4th semester)
+- Indian Institute of Technology(BHU), Varanasi
+- CGPA: 8.08 (Till 4th semester)
 
 - 12th Standard
     - White Leaf Public School, Delhi
@@ -26,7 +26,7 @@ and here's some things you would like to know about me :)
     - Percentage: 96.8%
  
 ### Skills ###
-<hr>
+- - - - 
 #### Currently focussing on ####
 - Data Structures and Algorithms
 - Supervised Machine Learning
