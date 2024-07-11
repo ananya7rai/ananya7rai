@@ -1,5 +1,5 @@
 # Hi, I'm Ananya Rai #
-and here's some things you would like to know about me :) 
+and here are some things you'd like to know about me :) 
 
 ## About Me ##
 🎓 B.Tech student at Indian Institute of Technology(BHU), Varanasi <br />
