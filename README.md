@@ -2,7 +2,7 @@
 and here's some things you would like to know about me :) 
 
 ## About Me ##
-🎓 B.Tech student at Indian Institute of Technology(BHU), Varanasi, studying Metallurgical engineering <br />
+🎓 B.Tech student at Indian Institute of Technology(BHU), Varanasi <br />
 📧 Contact: ananya.rai.met22@itbhu.ac.in <br />
 🌐 [GitHub](https://github.com/ananya7rai)
 
