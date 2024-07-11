@@ -2,13 +2,11 @@
 and here's some things you would like to know about me :) 
 
 ## About Me ##
-- - - - 
 🎓 B.Tech student at Indian Institute of Technology(BHU), Varanasi, studying Metallurgical engineering 
 📧 Contact: ananya.rai.met22@itbhu.ac.in
 🌐 [GitHub](https://github.com/ananya7rai)
 
 ## Education ##
-- - - -
 - B.Tech (Metallurgical Engineering)
     - Indian Institute of Technology(BHU), Varanasi
     - CGPA: 8.08 (Till 4th semester)
@@ -26,7 +24,6 @@ and here's some things you would like to know about me :)
     - Percentage: 96.8%
  
 ## Skills ##
-- - - - 
 ### Currently focussing on ###
 - Data Structures and Algorithms
 - Supervised Machine Learning
