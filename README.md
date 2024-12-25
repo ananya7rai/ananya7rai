@@ -25,10 +25,12 @@ and here are some things you'd like to know about me :)
  
 ## Skills ##
 ### Currently focussing on ###
-- Data Structures and Algorithms
-- Supervised Machine Learning
+- AI
+- Natural Language Processing
+- Machine Learning
 - Deep Learning
-- Data Science 
+- Data Science
+- Data Structures and Algorithm
 
 ### Programming Languages ###
 - Python, C++, C, SQL(learning something new everyday)
