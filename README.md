@@ -27,6 +27,7 @@ and here are some things you'd like to know about me :)
 ### Currently focussing on ###
 - AI
 - Natural Language Processing
+- Large Language Models
 - Machine Learning
 - Deep Learning
 - Data Science
@@ -36,10 +37,10 @@ and here are some things you'd like to know about me :)
 - Python, C++, C, SQL(learning something new everyday)
 
 ### Tools and Technology ###
--  NumPy, Pandas, Matplotlib, TensorFlow, Keras, PyTorch, MS Excel, MS PowerPoint
+-  NumPy, Pandas, Matplotlib, TensorFlow, Keras, PyTorch, MS Excel, MS PowerPoint, Tableau, OpenCV.
 
 ### Areas of Interest ###
-- Mathematics, Photoshop Manipulation, Yoga, 
+- Mathematics, Photoshop Manipulation, Yoga 
 
 
 
