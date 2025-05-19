@@ -9,7 +9,7 @@ and here are some things you'd like to know about me :)
 ## Education ##
 - B.Tech (Metallurgical Engineering)
     - Indian Institute of Technology(BHU), Varanasi
-    - CGPA: 8.33 (Till 5th semester)
+    - CGPA: 8.37 (Till 6th semester)
 
 - 12th Standard
     - White Leaf Public School, Delhi
