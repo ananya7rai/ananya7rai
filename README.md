@@ -2,14 +2,14 @@
 and here are some things you'd like to know about me :) 
 
 ## About Me ##
-🎓 B.Tech student at Indian Institute of Technology(BHU), Varanasi <br />
-📧 Contact: ananya.rai.met22@itbhu.ac.in <br />
+🎓 B.Tech graduate from Indian Institute of Technology(BHU), Varanasi <br />
+📧 Contact: ananya7rai@gmail.com <br />
 🌐 [GitHub](https://github.com/ananya7rai)
 
 ## Education ##
 - B.Tech (Metallurgical Engineering)
     - Indian Institute of Technology(BHU), Varanasi
-    - CGPA: 8.37 (Till 6th semester)
+    - CGPA: 8.32
 
 - 12th Standard
     - White Leaf Public School, Delhi
